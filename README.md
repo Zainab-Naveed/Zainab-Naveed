@@ -8,7 +8,7 @@ I enjoy learning through practical projects and exploring how software can be de
 
 ---
 
-## 🌷 About Me
+##  About Me
 
 BS Software Engineering student at **FAST NUCES**
 Currently building my programming foundation with **C++**
@@ -19,7 +19,7 @@ Learning by building projects and practicing new concepts
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Programming
 
@@ -37,7 +37,7 @@ Learning by building projects and practicing new concepts
 
 ---
 
-## 📌 Featured Project
+##  Featured Project
 
  Console-Based Quiz Game
 
@@ -54,7 +54,7 @@ The project focuses on applying fundamental programming concepts to create an in
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 I'm currently studying **Object-Oriented Programming in C++** and working on strengthening my understanding of software development concepts through coursework and practice.
 
@@ -62,13 +62,13 @@ As I continue learning, I plan to build more projects and expand my technical sk
 
 ---
 
-## 🎯 My Goal
+##  My Goal
 
 To continuously improve my programming skills, build meaningful projects, and grow into a capable software engineer through consistent learning and practical experience.
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/zainab-n-b4232138b/">LinkedIn</a>
