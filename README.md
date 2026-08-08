@@ -1,83 +1,81 @@
-# Hi, I'm Zainab Naveed 
+# Hi, I'm Zainab Naveed
 
-### BS Software Engineering Student | FAST NUCES
+### BS Software Engineering Student @ FAST NUCES
 
-I'm a 3rd-semester Software Engineering student at **FAST NUCES**, currently building my foundation in programming and web technologies.
+I'm a Software Engineering student at **FAST NUCES**, currently building my foundation in programming, web technologies, and software development.
 
-I enjoy learning through practical projects and exploring how software can be designed to solve real-world problems.
-
----
-
-##  About Me
-
-BS Software Engineering student at **FAST NUCES**
-Currently building my programming foundation with **C++**
-Familiar with **HTML, CSS, and JavaScript**
-Currently learning **Object-Oriented Programming in C++**
-Interested in continuously improving my programming and software development skills
-Learning by building projects and practicing new concepts
+I enjoy learning by building projects, experimenting with new concepts, and turning what I learn into something practical.
 
 ---
 
-##  Skills
+## About Me
 
-### Programming
+* BS Software Engineering student at **FAST NUCES**
+* Currently strengthening my programming fundamentals with **C++**
+* Familiar with **HTML, CSS, and JavaScript**
+* Currently learning **Object-Oriented Programming in C++**
+* Interested in software development and building practical projects
+* Learning through coursework, practice, and hands-on projects
+
+---
+
+## Tech Stack
+
+**Programming**
 
 * C++
 
-### Web Technologies
+**Web Technologies**
 
 * HTML
 * CSS
 * JavaScript
 
-### Currently Learning
+**Currently Exploring**
 
-* Object-Oriented Programming in C++
+* Object-Oriented Programming
+* Software Development Concepts
+* Building more practical projects
 
 ---
 
-##  Featured Project
+## Featured Project
 
- Console-Based Quiz Game
+### Console-Based Quiz Game
 
 A console-based quiz game developed in **C++** as a Programming Fundamentals project.
 
-The project focuses on applying fundamental programming concepts to create an interactive question-and-answer experience.
+The project helped me practice programming fundamentals including variables, data types, input/output, conditions, loops, functions, and basic user interaction.
 
-**Technologies:**
+**Built with:** C++
 
-* C++
-* Programming Fundamentals
-
-🔗 [View Project](https://github.com/Zainab-Naveed/Console-Based-Quiz-Game)
+[View Project](https://github.com/Zainab-Naveed/Console-Based-Quiz-Game)
 
 ---
 
-## Currently Learning
+## My Portfolio
 
-I'm currently studying **Object-Oriented Programming in C++** and working on strengthening my understanding of software development concepts through coursework and practice.
+I've also created a personal portfolio to document my learning journey, projects, and progress as I continue developing my skills.
 
-As I continue learning, I plan to build more projects and expand my technical skills.
-
----
-
-##  My Goal
-
-To continuously improve my programming skills, build meaningful projects, and grow into a capable software engineer through consistent learning and practical experience.
+[Visit My Portfolio](https://zainab-naveed.github.io/zainab-portfolio/)
 
 ---
 
-##  Let's Connect
+## What I'm Working Toward
 
-<p>
-  <a href="https://www.linkedin.com/in/zainab-n-b4232138b/">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Zainab-Naveed">GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:f253021@cfd.nu.edu.pk">Email</a>
-</p>
+I'm focused on becoming a capable software engineer by consistently improving my programming skills, understanding software development concepts, and building meaningful projects along the way.
+
+There is still a lot to learn — and that's part of the journey.
 
 ---
 
-### 🌸 Always learning. Always building. Always improving.
+## Let's Connect
+
+* [LinkedIn](https://www.linkedin.com/in/zainab-n-b4232138b/)
+* [GitHub](https://github.com/Zainab-Naveed/)
+* [Portfolio](https://zainab-naveed.github.io/zainab-portfolio/)
+* [f253021@cfd.nu.edu.pk](mailto:f253021@cfd.nu.edu.pk)
+
+---
+
+### Learning. Building. Improving.
